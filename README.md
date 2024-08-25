@@ -4,7 +4,7 @@
 
 **Location:** Baltimore - Homewood Campus
 
-**Instructor:** 
+**Instructors:** 
 
 [Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu)
 
