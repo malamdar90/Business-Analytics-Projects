@@ -16,12 +16,12 @@
 
 # Students Tableau Projects
 
-[Team 52 US Pollution Data](https://public.tableau.com/views/U_S_AirPollution/AirPollution)
+[US Pollution Data](https://public.tableau.com/views/U_S_AirPollution/AirPollution)
 
-[Team 53 Airbnb Prices in European cities](https://public.tableau.com/app/profile/sawyer.olson/viz/Team53AirbnbFinalProject/AirbnbFinalProject)
+[Airbnb Prices in European cities](https://public.tableau.com/app/profile/sawyer.olson/viz/Team53AirbnbFinalProject/AirbnbFinalProject)
 
-[Team 54 Shark Tank USA Database](https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1)
+[Shark Tank USA Database](https://public.tableau.com/app/profile/tyler.han5506/viz/18dec23_project/Story1)
 
-[Team 55 Prison Population](https://public.tableau.com/views/MassIncarcerationPrisonerProject/EXPLORETHEUSCRISISOFMASSINCARCERATIONOVERTHEYEARS)
+[Prison Population](https://public.tableau.com/views/MassIncarcerationPrisonerProject/EXPLORETHEUSCRISISOFMASSINCARCERATIONOVERTHEYEARS)
 
-[Team 56 NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
+[NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
