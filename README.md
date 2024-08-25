@@ -4,7 +4,9 @@
 
 **Location:** Baltimore - Homewood Campus
 
-**Instructor:** [Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu), [Dr. Maqbool Dada](https://carey.jhu.edu/faculty/faculty-directory/maqbool-dada-phd) (dada@jhu.edu)
+**Instructor:** 
+[Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu)
+[Dr. Maqbool Dada](https://carey.jhu.edu/faculty/faculty-directory/maqbool-dada-phd) (dada@jhu.edu)
 
 **Students:** 33 Undergrad Students
   
