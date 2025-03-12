@@ -1,6 +1,6 @@
 # About the BU.667.310 Business Analytics
 
-**School:** Johns Hopkins Carey Business School
+**School:** Johns Hopkins University
 
 **Location:** Baltimore - Homewood Campus
 
@@ -10,7 +10,7 @@
 
 [Dr. Maqbool Dada](https://carey.jhu.edu/faculty/faculty-directory/maqbool-dada-phd) (dada@jhu.edu)
 
-**Students:** 40 Undergrad Students
+**Students:** 40 Undergrad Students (Fall 2024 & Fall 2023)
   
 **Format:** In-Person
 
