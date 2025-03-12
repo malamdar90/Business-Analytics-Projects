@@ -1,4 +1,4 @@
-# About the BU.667.310 Business Analytics and Statistics Course
+# About the BU.667.310 Business Analytics
 
 **School:** Johns Hopkins Carey Business School
 
