@@ -29,3 +29,11 @@
 [Prison Population](https://public.tableau.com/views/MassIncarcerationPrisonerProject/EXPLORETHEUSCRISISOFMASSINCARCERATIONOVERTHEYEARS)
 
 [NBA Player Data](https://public.tableau.com/views/NBAPlayers_17030177485690/Story1)	
+
+[Billionaire Status Dashboard](https://public.tableau.com/app/profile/jessica2952/viz/BillionaireStatusDashboardFinal/BusinessAnalyticsDashboard)
+
+[Top 20 Soccer Players]([https://public.tableau.com/app/profile/jessica2952/viz/BillionaireStatusDashboardFinal/BusinessAnalyticsDashboard](https://public.tableau.com/app/profile/jonathan.nichols8811/viz/Team113-BAProject/FinalDashboard?publish=yes))
+
+[Yearly NFL Statistics]([https://public.tableau.com/app/profile/jessica2952/viz/BillionaireStatusDashboardFinal/BusinessAnalyticsDashboard](https://public.tableau.com/app/profile/jadon.archer/viz/FinalProjectBAS/YearlyNFLPlayerTeamStatistics?publish=yes))
+
+[Fantasy Football League](https://public.tableau.com/app/profile/ethan.idnani/viz/AGuidetoWinningYourFantasyFootballLeague/Dashboard2?publish=yes)
