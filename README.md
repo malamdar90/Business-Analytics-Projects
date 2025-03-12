@@ -10,7 +10,7 @@
 
 [Dr. Maqbool Dada](https://carey.jhu.edu/faculty/faculty-directory/maqbool-dada-phd) (dada@jhu.edu)
 
-**Students:** 33 Undergrad Students
+**Students:** 40 Undergrad Students
   
 **Format:** In-Person
 
